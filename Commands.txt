@@ -1,0 +1,151 @@
+1a and 1b Run directly
+
+**************
+2a
+
+create folder>>create txt file>>open git bash here>>following commands>>
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shwetaghule1106/w.git
+git push -u origin main
+
+for github link create new repo
+
+**************
+
+2b
+
+Docker practical
+go to c drive>>program files>>docker>>cmd>>following commands
+docker -v
+docker images
+docker ps
+docker pull openjdk
+docker images
+docker ps
+docker run --name MYIMAGE -it -d openjdk
+docker images
+docker ps
+jshell
+docker images
+/exit
+docker images
+docker stop a35d4b6b06a6
+docker container rm a35d4b6b06a6
+
+**************
+
+2c
+angular practical
+npm install -g @angular/cli
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+ng serve --o
+
+**************
+
+3a
+go to vs code>>open integrated terminal>>following commands
+npm init -y
+npm install express
+node Server/server.js
+
+**************
+
+3b
+create folder "DB">>in that create another folder "Data">>copy path>>
+
+go to c drive>>program files>>mongodb>>server>>3.7>>bin>>open cmd>>type following command>>
+mongod --dbpath <path link>
+
+open compass>>connect>>create database>>college>>IT>>
+
+go to vs code>>open integrated terminal>>following commands>>
+npm init -y
+npx install express
+node index.js
+
+copy link>>open postman>>paste link>>click on post>>send
+
+
+**************
+Cloud Computing
+**************
+
+
+1
+go to google cloud console>>console>>new project>>select project>>open terminal>>following commands>>
+git clone
+git clone<link>
+ls
+cd directory
+Python filename.py
+
+go to github>>new repo>>add file>>new file>>print something>>save with .py extension>>commit changes>>
+
+**************
+
+CC1 :-
+git clone 
+git clone git hub repository link
+ls
+cd repository name
+python file name with extension.
+
+**************
+
+CC3 :-
+eclipse :-
+file-new-java project- src-new-package- upload Assignment3 files- module info.java- requires cloudsim; - CC1 right click - properties-
+java build path- libraries- module path- add external jars - upload files cloudsim 4.0- run
+
+**************
+
+
+CC4 :-
+download https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt
+open vitrul machine
+create 2 vm using new 
+add nat network 
+go to setting add link
+
+Vagrant 
+Pass:- vagrant
+la
+Touch test.txt
+nano test.txt
+Hello world - cntlr+o -enter- cntlr+x
+ls
+ifconfig ( both side ) 
+scp test.txt vagrant@ip number:/home/vagrant
+Yes
+pass:- vagrant
+
+Other side :- ls 
+Cat test.txt
+
+
+**************
+
+
+CC6 :-
+Ass_6_CC
+create react folder, open in vs code then
+vs code command 
+
+npm install -g create-react-app
+npx create-react-app my-react-app
+cd my-react-app
+npm start
+
+And open new terminal 
+cd my-react-app
+git init
+git add . 
+git commit -m "heloo"
+git branch -M main
+git remote add origin repo_link
+git push -u origin main
+
+open amplify then click on github then open repo then deploy.....
